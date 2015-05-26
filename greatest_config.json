@@ -1,0 +1,27 @@
+[
+	{
+		"request": {
+			"headers" : {
+                "JSESSIONID" : "awK325Su2489Urw44G-5JIMH"
+            },
+			"json": {
+
+						"sport":"boxing",
+						"cuptype":"world-wide",
+						"comparison":"best",
+						"number":"all"
+			}
+		},
+
+		"response": {
+			"headers" : {
+                "JSESSIONID" : "awK325Su2489Urw44G-5JIMH"
+            },
+			"json": {
+
+						"publicResultMessage":null,"updateServicePack":null,"checkbookFormat":1,"requestId":"67CDCECA","checkBookType":25,"servicePackContent":null,"deliveryType":1,"serviceId":24,"serverDate":"2015-05-13T16:08:37.942Z","upgradeApplicationMessage":{"writtenLeftToRight":null,"language":null,"data":null},"publicResultCode":0,"upgradeApplication":"0","errorCode":null,"debugMode":false,"supportNumber":"ABCD15484PPLKI","upgradeApplicationUrl":null
+			}		
+		}
+	}
+	
+]
