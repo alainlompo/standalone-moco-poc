@@ -7,7 +7,7 @@ launch_moco.bat file (use for example port number 10500) and run the GreatestAth
 Using Moco with a variable (dynamic) number of parameters in the request.
 
 In a moco request we can use the "contain" operator to specify that a request contains a certain piece of text
-
+<pre>
 "request": {
    "text": {
       "contain":"text that should appear in the request"
@@ -19,5 +19,5 @@ In a moco request we can use the "contain" operator to specify that a request co
       "deviceId":123
   }
 }
-
+</pre>
 No matter how many more parameters appear in the request, if it contains the text associated with the "contain" operator, moco will produce the same response
